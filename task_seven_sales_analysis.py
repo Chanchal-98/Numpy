@@ -1,7 +1,7 @@
 import numpy as np
 
 # Daily sales data
-sales = np.array([1200, 1500, 900, 2000, 1800, 1700, 1600])
+sales = np.array([1200, 1500, 900, 2000, 1800, 1700])
 
 # Total weekly sales
 print("Total weekly sales: ",np.sum(sales))

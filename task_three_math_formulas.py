@@ -1,6 +1,6 @@
 import numpy as np
 
-values = np.array([2, 4, 6, 8, 10])
+values = np.array([4, 6, 8, 10])
 
 # Square root
 result = np.sqrt(values)
